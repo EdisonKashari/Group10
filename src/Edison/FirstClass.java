@@ -1,4 +1,9 @@
 package Edison;
 
 public class FirstClass {
+    public static void main(String[] args) {
+        System.out.println("Second class");
+
+        //step 1
+    }
 }
